@@ -18,8 +18,11 @@ function randomHex() {
 document.getElementById('random-btn').addEventListener('click', function() {
   var color = randomHex();
   setBoxColor(color);
+ chore/refactor-script
 });
 
-// Branch 2
+ bugfix/color-input-type
+});
 
-// Branch 3
+});
+
